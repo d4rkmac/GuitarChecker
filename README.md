@@ -1,1 +1,1 @@
-# GuitarChecker
+# Guitar-Chord-Checker
